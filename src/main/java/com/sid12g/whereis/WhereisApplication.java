@@ -8,6 +8,7 @@ public class WhereisApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(WhereisApplication.class, args);
+
 	}
 
 }
